@@ -3,8 +3,7 @@
 
 
 I am a CSE student
-I love learning Algorithms, Mathematics, & Programming.
-I am alos interested in Graphics Design.
+
 
 Skills:  Java / C++ / HTML / Java Script
 
