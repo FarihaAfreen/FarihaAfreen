@@ -1,6 +1,6 @@
  ### Hi there 👋, I am Fariha Afreen
 #### I am a CSE student
-![I am a CSE student](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+
 
 I am a CSE student
 I love learning Algorithms, Mathematics, & Programming.
