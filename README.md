@@ -14,7 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FarihaAfreen](https://github.com/FarihaAfreen)
 
-- 📝 I regularly write articles on [https://www.facebook.com/lily.afreen.77/](https://www.facebook.com/lily.afreen.77/)
+- 📝 I regularly write articles on My diary 
+- 
 
 - 💬 Ask me about **Ict Related Question**
 
