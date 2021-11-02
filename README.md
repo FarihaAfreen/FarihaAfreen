@@ -1,6 +1,6 @@
  <h3 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h3>
 <h4 align="center">" Welcome To my Profile 💐 " </h4>
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 
 
 ## 🙋‍♂️ About Me
