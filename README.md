@@ -1,5 +1,5 @@
- <h3 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h3>
-<h4 align="center">" Welcome To my Profile 💐 " </h4>
+ 
+<h4 align="center">" Welcome To my Profile " </h4>
 
 
 
