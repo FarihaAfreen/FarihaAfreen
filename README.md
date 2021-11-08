@@ -14,14 +14,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FarihaAfreen](https://github.com/FarihaAfreen)
 
-- 📝 I regularly write articles on My diary 
-- 
-
 - 💬 Ask me about **Ict Related Question**
 
 - 📫 How to reach me **lilyafreen@gmail.com**
 
-- 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
 
 
 
